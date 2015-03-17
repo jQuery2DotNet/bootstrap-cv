@@ -1,5 +1,4 @@
 # Bootstrap Resume OR CV Template Free
-===================
 [![Gratipay](http://img.shields.io/gratipay/jQuery2DotNet.svg)](https://gratipay.com/jQuery2DotNet/)
 
 Simple, clear, cool and responsive CV/Resume template. Professional looking resume template. :smile:
